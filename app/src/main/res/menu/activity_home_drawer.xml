@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_classes"
+            android:icon="@drawable/ic_classes"
+            android:title="Our Classes" />
+
+        <item
+            android:id="@+id/nav_booking"
+            android:icon="@drawable/ic_booking"
+            android:title="Book Classes" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_abouticon"
+            android:title="About us" />
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/ic_contacticon"
+            android:title="Contact us" />
+        <item
+            android:id="@+id/nav_music"
+            android:icon="@drawable/ic_music_player"
+            android:title="Workout Music" />
+        <item
+            android:id="@+id/nav_find"
+            android:icon="@drawable/ic_findicon"
+            android:title="Find Us" />
+        <item
+            android:id="@+id/nav_rateus"
+            android:icon="@drawable/ic_stars"
+            android:title="Rate Us" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_logoutt"
+            android:title="Logout" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+        </menu>
+    </item>
+
+</menu>

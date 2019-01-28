@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">JazzCo Fitness</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_about_us">AboutUsActivity</string>
+    <string name="title_activity_notification">Book your Class</string>
+    <string name="large_text">The <b>JazzCo Fitness</b> concept starts with the idea of making fitness more affordable, convenient and flexible for everybody, not just the few.
+We have designed our gyms around the things that matter most to our members, which allows us to provide high quality gym memberships for low prices."\n"JazzCo Fitness our vision is to inspire a healthier nation. We all know the benefits of being fit and well and so, by helping as many people as we can across the Cyprus, we want to do our part to make a positive contribution to our society. "\n\n"
+       <b>Opening Hours:</b>"\n\n"
+        Monday-Friday  08:00 - 21:00"\n\n"
+        Saturday       10:00 - 16:00"\n\n"
+        Sunday         10:00 - 14:00"\n\n"
+    </string>
+    <string name="title_activity_scrolling">About Us</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_classes">ClassesActivity</string>
+    <string name="tab_text_1">Yoga</string>
+    <string name="tab_text_2">Pilates</string>
+    <string name="yoga_text"><b>What is Yoga?</b>"\n\n"Yoga is quickly becoming one of the most popular, if not the most popular, workout regime among those who are looking to gain flexibility, strength and even lose weight. It can be done from the privacy of your home or in a classroom. Yoga is great for reducing stress and allowing for greater relaxation. Once you get into Yoga though, you learn that it is so much more than just a way to workout and keep in shape. It is a philosophy, a passion and a way of life for many of those involved in Yoga.</string>
+    <string name="pilates_text"><b>What is pilates?</b>"\n\n"Pilates is an exercise method, designed to elongate, strengthen and restore the body to balance. Based upon an anatomical understanding of the bodys muscular and skeletal systems, the Pilates teacher creates a comprehensive exercise programme for the client. Classes will focus on specific areas individually whilst using exercises that integrate the whole body to re-educate and restore it to optimum muscular and skeletal function.</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
